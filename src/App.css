@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: 'DM Serif Display', serif;
+  color: #015c5b
+}
+
+h3, p {
+  font-family: 'Open Sans', sans-serif;
+  color: #015c5b;
+}
+
+.card {
+  border-style: double;
+  border-width: 2px;
+  border-radius: 20px;
+  border-color: #6d9773;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card-education {
+  background-color:  #4a9589;
+}
+
+.card-projects {
+  background-color: #ede8e2;
+}
+
+.card-skills {
+  background-color: #e3b4d3;
+}
+.App-header {
+  background-color: #d1dfb1;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+/*pink: #e3b4d3 */
+/*eggplant: #583760 */
+/*light green: #d1dfb1 */
+/*dark green: #015c5b */
+/*cream: #ebe8e1 */
+/*dark almost black #3a1e47 */
